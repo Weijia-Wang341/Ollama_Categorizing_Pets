@@ -1,25 +1,265 @@
 animals vs category,animals,category
-1. Duck - Bird,1. Duck,Bird
-  2. Snake - Reptile,  2. Snake,Reptile
-  3. Samoyed - Dog,  3. Samoyed,Dog
-  4. Dog (unspecified breed) - Mammal,  4. Dog (unspecified breed),Mammal
-  5. British Shorthair - Cat,  5. British Shorthair,Cat
-  6. Fish (unspecified species) - Aquatic Creatures,  6. Fish (unspecified species),Aquatic Creatures
-  7. Bunny - Rabbit (Mammal),  7. Bunny,Rabbit (Mammal)
-  8. Golden Retriever - Dog,  8. Golden Retriever,Dog
-  9. Guinea Pig - Rodent (Mammal),  9. Guinea Pig,Rodent (Mammal)
-  10. American Shorthair - Cat,  10. American Shorthair,Cat
-  11. Parrot (unspecified species) - Bird,  11. Parrot (unspecified species),Bird
-  12. Cat (unspecified breed) - Mammal,  12. Cat (unspecified breed),Mammal
-"  13. Chicken - Bird (Mammal, technically, but usually classified as a bird due to its characteristics)",  13. Chicken,"Bird (Mammal, technically, but usually classified as a bird due to its characteristics)"
-  14. Turtle - Reptile,  14. Turtle,Reptile
-  15. Bird (unspecified species) - Aviary Creatures,  15. Bird (unspecified species),Aviary Creatures
-  16. Hens - Bird (Chickens),  16. Hens,Bird (Chickens)
-  17. Goldfish - Fish,  17. Goldfish,Fish
-  18. White Shepherd - Dog,  18. White Shepherd,Dog
-  19. Rat - Rodent (Mammal),  19. Rat,Rodent (Mammal)
-  20. Rabbit (unspecified breed) - Mammal,  20. Rabbit (unspecified breed),Mammal
-  21. Horse - Equine (Mammal),  21. Horse,Equine (Mammal)
-  22. Kitten - Cat (Mammal),  22. Kitten,Cat (Mammal)
-  23. Chihuahua - Dog,  23. Chihuahua,Dog
-"  24. Hens (plural, unspecified breed) - Bird (Chickens)","  24. Hens (plural, unspecified breed)",Bird (Chickens)
+1. British Longhair - Cat,1. British Longhair,Cat
+   2. Golden Retriever - Dog,   2. Golden Retriever,Dog
+   3. Goldfish - Fish,   3. Goldfish,Fish
+   4. Parrot - Bird,   4. Parrot,Bird
+   5. Green-cheeked Conure - Bird,   5. Green-cheeked Conure,Bird
+   6. Siberian Husky - Dog,   6. Siberian Husky,Dog
+   7. Siamese - Cat,   7. Siamese,Cat
+   8. German Shepherd - Dog,   8. German Shepherd,Dog
+   9. Canary - Bird,   9. Canary,Bird
+  10. Bengal - Cat,  10. Bengal,Cat
+  11. Cockatiel - Bird,  11. Cockatiel,Bird
+  12. Bearded Dragon - Reptile,  12. Bearded Dragon,Reptile
+  13. Fennec Fox - Mammal,  13. Fennec Fox,Mammal
+  14. Leopard Gecko - Reptile,  14. Leopard Gecko,Reptile
+  15. Poodle - Dog,  15. Poodle,Dog
+  16. Hamster - Rodent,  16. Hamster,Rodent
+  17. Guinea Pig - Rodent,  17. Guinea Pig,Rodent
+  18. Rabbit - Rodent,  18. Rabbit,Rodent
+  19. Tortoise - Reptile,  19. Tortoise,Reptile
+  20. Dachshund - Dog,  20. Dachshund,Dog
+  21. African Grey Parrot - Bird,  21. African Grey Parrot,Bird
+  22. Chinchilla - Rodent,  22. Chinchilla,Rodent
+  23. Boxer - Dog,  23. Boxer,Dog
+  24. Lovebird - Bird,  24. Lovebird,Bird
+  25. Raccoon - Mammal,  25. Raccoon,Mammal
+  26. Capybara - Mammal,  26. Capybara,Mammal
+  27. Koi Fish - Fish,  27. Koi Fish,Fish
+  28. Iguana - Reptile,  28. Iguana,Reptile
+  29. Python - Reptile,  29. Python,Reptile
+  30. Labrador Retriever - Dog,  30. Labrador Retriever,Dog
+  31. Macaw - Bird,  31. Macaw,Bird
+  32. Turtle - Reptile,  32. Turtle,Reptile
+  33. Ferret - Mammal,  33. Ferret,Mammal
+  34. Gecko - Reptile,  34. Gecko,Reptile
+  35. Rattlesnake - Reptile,  35. Rattlesnake,Reptile
+  36. Shih Tzu - Dog,  36. Shih Tzu,Dog
+  37. Tarantula - Arachnid,  37. Tarantula,Arachnid
+  38. Tortoise Beetle - Insect,  38. Tortoise Beetle,Insect
+  39. Snapping Turtle - Reptile,  39. Snapping Turtle,Reptile
+  40. Zebra Finch - Bird,  40. Zebra Finch,Bird
+1. British Shorthair - Cat,1. British Shorthair,Cat
+  2. Siamese - Cat,  2. Siamese,Cat
+  3. Maine Coon - Cat,  3. Maine Coon,Cat
+  4. Persian - Cat,  4. Persian,Cat
+  5. Sphynx - Cat,  5. Sphynx,Cat
+  6. Ragdoll - Cat,  6. Ragdoll,Cat
+  7. Domestic Short Hair - Cat,  7. Domestic Short Hair,Cat
+  8. Bengal - Cat,  8. Bengal,Cat
+  9. Scottish Fold - Cat,  9. Scottish Fold,Cat
+  10. Birman - Cat,  10. Birman,Cat
+,,
+  11. Golden Retriever - Dog,  11. Golden Retriever,Dog
+  12. German Shepherd - Dog,  12. German Shepherd,Dog
+  13. Labrador Retriever - Dog,  13. Labrador Retriever,Dog
+  14. Beagle - Dog,  14. Beagle,Dog
+  15. Dachshund - Dog,  15. Dachshund,Dog
+  16. Poodle - Dog,  16. Poodle,Dog
+  17. Bulldog - Dog,  17. Bulldog,Dog
+  18. Siberian Husky - Dog,  18. Siberian Husky,Dog
+  19. French Bulldog - Dog,  19. French Bulldog,Dog
+  20. Boxer - Dog,  20. Boxer,Dog
+,,
+  21. Goldfish - Fish,  21. Goldfish,Fish
+  22. Betta - Fish,  22. Betta,Fish
+  23. Guppy - Fish,  23. Guppy,Fish
+  24. Angel fish - Fish,  24. Angel fish,Fish
+  25. Clownfish - Fish,  25. Clownfish,Fish
+,,
+  26. Budgerigar (Budgie) - Bird,  26. Budgerigar (Budgie),Bird
+  27. Parakeet - Bird,  27. Parakeet,Bird
+  28. Cockatiel - Bird,  28. Cockatiel,Bird
+  29. Canary - Bird,  29. Canary,Bird
+  30. Lovebird - Bird,  30. Lovebird,Bird
+,,
+  31. African Gray Parrot - Bird,  31. African Gray Parrot,Bird
+  32. Macaw - Bird,  32. Macaw,Bird
+  33. Cockatoo - Bird,  33. Cockatoo,Bird
+  34. Amazon Parrot - Bird,  34. Amazon Parrot,Bird
+  35. Pionus Parrot - Bird,  35. Pionus Parrot,Bird
+1. British Longhair - Cat,1. British Longhair,Cat
+   2. Golden Retriever - Dog,   2. Golden Retriever,Dog
+   3. Goldfish - Fish,   3. Goldfish,Fish
+   4. Budgerigar (or commonly known as Parakeet) - Bird,   4. Budgerigar (or commonly known as Parakeet),Bird
+   5. Parrot - Bird,   5. Parrot,Bird
+   6. Canary - Bird,   6. Canary,Bird
+   7. Cockatiel - Bird,   7. Cockatiel,Bird
+   8. Macaw - Bird,   8. Macaw,Bird
+   9. Lovebird - Bird,   9. Lovebird,Bird
+  10. Amazonian Parrot - Bird,  10. Amazonian Parrot,Bird
+  11. African Grey Parrot - Bird,  11. African Grey Parrot,Bird
+  12. Cockatoo - Bird,  12. Cockatoo,Bird
+"  13. Owl (for example, Great Horned Owl) - Bird","  13. Owl (for example, Great Horned Owl)",Bird
+"  14. Eagle (for example, Bald Eagle) - Bird","  14. Eagle (for example, Bald Eagle)",Bird
+  15. Falcon - Bird,  15. Falcon,Bird
+  16. Dove - Bird,  16. Dove,Bird
+  17. Pigeon - Bird,  17. Pigeon,Bird
+  18. Peafowl - Bird,  18. Peafowl,Bird
+  19. Emus - Birds (although they are flightless),  19. Emus,Birds (although they are flightless)
+  20. Alpaca - Mammal,  20. Alpaca,Mammal
+  21. Llama - Mammal,  21. Llama,Mammal
+  22. Guinea Pig - Rodent,  22. Guinea Pig,Rodent
+  23. Hamster - Rodent,  23. Hamster,Rodent
+  24. Gerbil - Rodent,  24. Gerbil,Rodent
+  25. Rabbit - Mammal,  25. Rabbit,Mammal
+  26. Frog - Amphibian,  26. Frog,Amphibian
+  27. Turtle - Reptile,  27. Turtle,Reptile
+  28. Snake - Reptile,  28. Snake,Reptile
+  29. Gecko - Reptile,  29. Gecko,Reptile
+  30. Chameleon - Reptile,  30. Chameleon,Reptile
+  31. Tarantula - Arachnid,  31. Tarantula,Arachnid
+  32. Scorpion - Arachnid,  32. Scorpion,Arachnid
+  33. Centipede - Arthropod,  33. Centipede,Arthropod
+  34. Spider - Arachnid,  34. Spider,Arachnid
+  35. Ant - Insect,  35. Ant,Insect
+  36. Bee - Insect,  36. Bee,Insect
+  37. Butterfly - Insect,  37. Butterfly,Insect
+  38. Moth - Insect,  38. Moth,Insect
+  39. Dragonfly - Insect,  39. Dragonfly,Insect
+  40. Firefly - Insect,  40. Firefly,Insect
+1. British Shorthair - Cat,1. British Shorthair,Cat
+   2. Siamese - Cat,   2. Siamese,Cat
+   3. Persian - Cat,   3. Persian,Cat
+   4. Maine Coon - Cat,   4. Maine Coon,Cat
+   5. Ragdoll - Cat,   5. Ragdoll,Cat
+   6. Sphynx - Cat,   6. Sphynx,Cat
+   7. Bengal - Cat,   7. Bengal,Cat
+   8. Domestic Shorthair - Cat,   8. Domestic Shorthair,Cat
+   9. Abyssinian - Cat,   9. Abyssinian,Cat
+  10. Russian Blue - Cat,  10. Russian Blue,Cat
+  11. Scottish Fold - Cat,  11. Scottish Fold,Cat
+  12. Birman - Cat,  12. Birman,Cat
+,,
+  13. Golden Retriever - Dog,  13. Golden Retriever,Dog
+  14. German Shepherd - Dog,  14. German Shepherd,Dog
+  15. Labrador Retriever - Dog,  15. Labrador Retriever,Dog
+  16. Beagle - Dog,  16. Beagle,Dog
+  17. Bulldog - Dog,  17. Bulldog,Dog
+  18. Rottweiler - Dog,  18. Rottweiler,Dog
+  19. Poodle - Dog,  19. Poodle,Dog
+  20. Siberian Husky - Dog,  20. Siberian Husky,Dog
+  21. Boxer - Dog,  21. Boxer,Dog
+  22. Doberman Pinscher - Dog,  22. Doberman Pinscher,Dog
+,,
+  23. Guppy - Fish,  23. Guppy,Fish
+  24. Goldfish - Fish,  24. Goldfish,Fish
+  25. Betta Fish - Fish,  25. Betta Fish,Fish
+  26. Clownfish - Fish,  26. Clownfish,Fish
+  27. Nemo (Clownfish) - Fish,  27. Nemo (Clownfish),Fish
+  28. Angel Fish - Fish,  28. Angel Fish,Fish
+  29. Tiger Barbs - Fish,  29. Tiger Barbs,Fish
+  30. Neon Tetra - Fish,  30. Neon Tetra,Fish
+  31. Oscar (Cichlid) - Fish,  31. Oscar (Cichlid),Fish
+  32. Platys - Fish,  32. Platys,Fish
+,,
+  33. Budgies - Bird,  33. Budgies,Bird
+  34. Cockatiel - Bird,  34. Cockatiel,Bird
+  35. Canaries - Bird,  35. Canaries,Bird
+  36. Lovebirds - Bird,  36. Lovebirds,Bird
+  37. Parakeets - Bird,  37. Parakeets,Bird
+  38. Macaws - Bird,  38. Macaws,Bird
+  39. African Greys - Bird,  39. African Greys,Bird
+  40. Cockatoos - Bird,  40. Cockatoos,Bird
+  41. Finches - Bird,  41. Finches,Bird
+  42. Songbirds - Bird,  42. Songbirds,Bird
+1. British Shorthair - Cat,1. British Shorthair,Cat
+,,
+2. Siamese - Cat,2. Siamese,Cat
+,,
+3. Maine Coon - Cat,3. Maine Coon,Cat
+,,
+4. Persian - Cat,4. Persian,Cat
+,,
+5. Ragdoll - Cat,5. Ragdoll,Cat
+,,
+6. Sphynx - Cat,6. Sphynx,Cat
+,,
+7. Golden Retriever - Dog,7. Golden Retriever,Dog
+,,
+8. Labrador Retriever - Dog,8. Labrador Retriever,Dog
+,,
+9. German Shepherd - Dog,9. German Shepherd,Dog
+,,
+10. Poodle - Dog,10. Poodle,Dog
+,,
+11. Dachshund - Dog,11. Dachshund,Dog
+,,
+12. Beagle - Dog,12. Beagle,Dog
+,,
+13. Boxer - Dog,13. Boxer,Dog
+,,
+14. Pug - Dog,14. Pug,Dog
+,,
+15. Chihuahua - Dog,15. Chihuahua,Dog
+,,
+16. Yorkshire Terrier - Dog,16. Yorkshire Terrier,Dog
+,,
+17. Golden Fish - Fish,17. Golden Fish,Fish
+,,
+18. Betta Fish - Fish,18. Betta Fish,Fish
+,,
+19. Guppy - Fish,19. Guppy,Fish
+,,
+20. Clownfish - Fish,20. Clownfish,Fish
+,,
+21. Parrot - Bird,21. Parrot,Bird
+,,
+22. Budgerigar (Budgie) - Bird,22. Budgerigar (Budgie),Bird
+,,
+23. Canary - Bird,23. Canary,Bird
+,,
+24. Cockatiel - Bird,24. Cockatiel,Bird
+,,
+25. African Grey - Bird,25. African Grey,Bird
+,,
+26. Macaw - Bird,26. Macaw,Bird
+,,
+27. Lovebird - Bird,27. Lovebird,Bird
+,,
+28. Pigeon - Bird,28. Pigeon,Bird
+,,
+29. Dove - Bird,29. Dove,Bird
+,,
+30. Peafowl - Bird,30. Peafowl,Bird
+,,
+"31. Ostrich - Bird (technically, ostriches are flightless birds that live on the ground and are not often kept as pets)",31. Ostrich,"Bird (technically, ostriches are flightless birds that live on the ground and are not often kept as pets)"
+1. British Longhair - Cat,1. British Longhair,Cat
+,,
+2. Golden Retriever - Dog,2. Golden Retriever,Dog
+,,
+3. Goldfish - Fish,3. Goldfish,Fish
+,,
+4. Parrot - Bird,4. Parrot,Bird
+,,
+5. Budgerigar (Budgie) - Bird,5. Budgerigar (Budgie),Bird
+,,
+6. Canary - Bird,6. Canary,Bird
+,,
+7. Lovebirds - Bird,7. Lovebirds,Bird
+,,
+8. Cockatoo - Bird,8. Cockatoo,Bird
+,,
+9. Macaw - Bird,9. Macaw,Bird
+,,
+10. Amazon Parrot - Bird,10. Amazon Parrot,Bird
+,,
+11. African Grey - Bird,11. African Grey,Bird
+,,
+12. Chinchilla Rabbit - Rabbit,12. Chinchilla Rabbit,Rabbit
+,,
+13. Guinea Pig - Rodent,13. Guinea Pig,Rodent
+,,
+14. Hamster - Rodent,14. Hamster,Rodent
+,,
+15. Gerbil - Rodent,15. Gerbil,Rodent
+,,
+16. Frog - Amphibian,16. Frog,Amphibian
+,,
+17. Gecko - Reptile,17. Gecko,Reptile
+,,
+18. Iguana - Reptile,18. Iguana,Reptile
+,,
+19. Snake - Reptile,19. Snake,Reptile
+,,
+20. Turtle - Reptile/Amphibian (depending on the specific species),20. Turtle,Reptile/Amphibian (depending on the specific species)

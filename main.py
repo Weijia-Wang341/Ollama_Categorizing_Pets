@@ -13,7 +13,7 @@ def hop(start, stop, step):
         yield i
     yield stop
 
-index_list = list(hop(0, len(unique_transaction), 30))
+index_list = list(hop(0, len(df), 30))
 
 def categorize_transactions(breed, llm):
     response = llm.invoke('can you add an appropriate category next to each of the following andmal or breed names. for example: british long hair - cat, golden - dog, gold fish - fish, parrot - bird' + breed)
