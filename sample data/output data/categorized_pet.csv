@@ -1,0 +1,201 @@
+respond_id,pet,count,pet vs category,Category
+1,Duck,6,1. Duck - Waterfowl,Waterfowl
+2,Snake,9,2. Snake - Reptile,Reptile
+3,Samoyed,1,3. Samoyed - Dog,Dog
+4,Dog,6,23. Dog - Dog,Dog
+5,British Shorthair,8,4. British Shorthair - Cat,Cat
+6,British Shorthair,8,4. British Shorthair - Cat,Cat
+7,Fish,3,5. Fish - Aquatic Life,Aquatic Life
+8,Bunny,2,6. Bunny - Rabbit,Rabbit
+9,Golden Retriever,3,7. Golden Retriever - Dog,Dog
+10,Samoyed,6,3. Samoyed - Dog,Dog
+11,Guinea Pig,3,8. Guinea Pig - Rodent,Rodent
+12,American Shorthair,6,9. American Shorthair - Cat,Cat
+13,Parrot,5,10. Parrot - Bird,Bird
+14,Duck,7,1. Duck - Waterfowl,Waterfowl
+15,Cat,0,11. Cat - Felines,Cat
+16,Parrot,8,10. Parrot - Bird,Bird
+17,Fish,4,5. Fish - Aquatic Life,Aquatic Life
+18,Chicken,6,12. Chicken - Fowl,Fowl
+19,Turtle,5,13. Turtle - Reptile,Reptile
+20,Bird,8,14. Bird - Aviary,Aviary
+21,Hens,2,15. Hens - Fowl,Fowl
+22,Goldfish,3,16. Goldfish - Aquatic Life,Aquatic Life
+23,Bunny,9,6. Bunny - Rabbit,Rabbit
+24,White Shepherd,7,17. White Shepherd - Dog,Dog
+25,Golden Retriever,5,7. Golden Retriever - Dog,Dog
+26,Rat,3,18. Rat - Rodent,Rodent
+27,Golden Retriever,4,7. Golden Retriever - Dog,Dog
+28,Bird,5,14. Bird - Aviary,Aviary
+29,Snake,3,2. Snake - Reptile,Reptile
+30,Snake,3,2. Snake - Reptile,Reptile
+31,Dog,7,23. Dog - Dog,Dog
+32,Guinea Pig,9,8. Guinea Pig - Rodent,Rodent
+33,British Shorthair,9,4. British Shorthair - Cat,Cat
+34,Turtle,9,13. Turtle - Reptile,Reptile
+35,Golden Retriever,7,7. Golden Retriever - Dog,Dog
+36,Golden Retriever,3,7. Golden Retriever - Dog,Dog
+37,Golden Retriever,2,7. Golden Retriever - Dog,Dog
+38,Chicken,3,12. Chicken - Fowl,Fowl
+39,Fish,9,5. Fish - Aquatic Life,Aquatic Life
+40,Dog,7,23. Dog - Dog,Dog
+41,Cat,7,11. Cat - Felines,Cat
+42,Bunny,5,6. Bunny - Rabbit,Rabbit
+43,Dog,1,23. Dog - Dog,Dog
+44,Rabbit,2,19. Rabbit - Lagomorpha,Lagomorpha
+45,White Shepherd,2,17. White Shepherd - Dog,Dog
+46,British Shorthair,8,4. British Shorthair - Cat,Cat
+47,Horse,1,20. Horse - Equidae,Equidae
+48,Guinea Pig,5,8. Guinea Pig - Rodent,Rodent
+49,Kitten,8,21. Kitten - Cat,Cat
+50,Dog,4,23. Dog - Dog,Dog
+51,Dog,0,23. Dog - Dog,Dog
+52,American Shorthair,2,9. American Shorthair - Cat,Cat
+53,Samoyed,5,3. Samoyed - Dog,Dog
+54,Bird,5,14. Bird - Aviary,Aviary
+55,Parrot,0,10. Parrot - Bird,Bird
+56,Goldfish,8,16. Goldfish - Aquatic Life,Aquatic Life
+57,White Shepherd,1,17. White Shepherd - Dog,Dog
+58,Turtle,1,13. Turtle - Reptile,Reptile
+59,Snake,0,2. Snake - Reptile,Reptile
+60,American Shorthair,3,9. American Shorthair - Cat,Cat
+61,Bunny,8,6. Bunny - Rabbit,Rabbit
+62,Rabbit,8,19. Rabbit - Lagomorpha,Lagomorpha
+63,Cat,4,11. Cat - Felines,Cat
+64,Cat,4,11. Cat - Felines,Cat
+65,Fish,0,5. Fish - Aquatic Life,Aquatic Life
+66,Bunny,9,6. Bunny - Rabbit,Rabbit
+67,British Shorthair,3,4. British Shorthair - Cat,Cat
+68,Parrot,7,10. Parrot - Bird,Bird
+69,Horse,3,20. Horse - Equidae,Equidae
+70,Chicken,2,12. Chicken - Fowl,Fowl
+71,Guinea Pig,1,8. Guinea Pig - Rodent,Rodent
+72,Dog,1,23. Dog - Dog,Dog
+73,Chicken,2,12. Chicken - Fowl,Fowl
+74,British Shorthair,1,4. British Shorthair - Cat,Cat
+75,Samoyed,4,3. Samoyed - Dog,Dog
+76,Duck,2,1. Duck - Waterfowl,Waterfowl
+77,Rabbit,5,19. Rabbit - Lagomorpha,Lagomorpha
+78,White Shepherd,5,17. White Shepherd - Dog,Dog
+79,Horse,5,20. Horse - Equidae,Equidae
+80,American Shorthair,2,9. American Shorthair - Cat,Cat
+81,Parrot,5,10. Parrot - Bird,Bird
+82,American Shorthair,7,9. American Shorthair - Cat,Cat
+83,Snake,7,2. Snake - Reptile,Reptile
+84,White Shepherd,6,17. White Shepherd - Dog,Dog
+85,British Shorthair,1,4. British Shorthair - Cat,Cat
+86,Duck,6,1. Duck - Waterfowl,Waterfowl
+87,American Shorthair,7,9. American Shorthair - Cat,Cat
+88,White Shepherd,2,17. White Shepherd - Dog,Dog
+89,Goldfish,3,16. Goldfish - Aquatic Life,Aquatic Life
+90,Chicken,1,12. Chicken - Fowl,Fowl
+91,Snake,9,2. Snake - Reptile,Reptile
+92,White Shepherd,5,17. White Shepherd - Dog,Dog
+93,British Shorthair,9,4. British Shorthair - Cat,Cat
+94,Snake,9,2. Snake - Reptile,Reptile
+95,Hens,2,15. Hens - Fowl,Fowl
+96,Samoyed,0,3. Samoyed - Dog,Dog
+97,Samoyed,9,3. Samoyed - Dog,Dog
+98,Rat,1,18. Rat - Rodent,Rodent
+99,Turtle,9,13. Turtle - Reptile,Reptile
+100,Bird,0,14. Bird - Aviary,Aviary
+101,Bunny,6,6. Bunny - Rabbit,Rabbit
+102,British Shorthair,0,4. British Shorthair - Cat,Cat
+103,Dog,4,23. Dog - Dog,Dog
+104,Bird,8,14. Bird - Aviary,Aviary
+105,Dog,4,23. Dog - Dog,Dog
+106,Turtle,3,13. Turtle - Reptile,Reptile
+107,Guinea Pig,3,8. Guinea Pig - Rodent,Rodent
+108,American Shorthair,8,9. American Shorthair - Cat,Cat
+109,Kitten,8,21. Kitten - Cat,Cat
+110,Rat,7,18. Rat - Rodent,Rodent
+111,British Shorthair,0,4. British Shorthair - Cat,Cat
+112,Kitten,3,21. Kitten - Cat,Cat
+113,Rabbit,8,19. Rabbit - Lagomorpha,Lagomorpha
+114,Hens,7,15. Hens - Fowl,Fowl
+115,Rat,7,18. Rat - Rodent,Rodent
+116,Fish,1,5. Fish - Aquatic Life,Aquatic Life
+117,Samoyed,8,3. Samoyed - Dog,Dog
+118,Bunny,4,6. Bunny - Rabbit,Rabbit
+119,Dog,7,23. Dog - Dog,Dog
+120,Rabbit,0,19. Rabbit - Lagomorpha,Lagomorpha
+121,Guinea Pig,4,8. Guinea Pig - Rodent,Rodent
+122,Horse,9,20. Horse - Equidae,Equidae
+123,Kitten,0,21. Kitten - Cat,Cat
+124,Kitten,6,21. Kitten - Cat,Cat
+125,British Shorthair,4,4. British Shorthair - Cat,Cat
+126,British Shorthair,2,4. British Shorthair - Cat,Cat
+127,Guinea Pig,4,8. Guinea Pig - Rodent,Rodent
+128,Chicken,6,12. Chicken - Fowl,Fowl
+129,British Shorthair,3,4. British Shorthair - Cat,Cat
+130,White Shepherd,3,17. White Shepherd - Dog,Dog
+131,Turtle,7,13. Turtle - Reptile,Reptile
+132,Guinea Pig,8,8. Guinea Pig - Rodent,Rodent
+133,Chicken,5,12. Chicken - Fowl,Fowl
+134,Bunny,0,6. Bunny - Rabbit,Rabbit
+135,Cat,8,11. Cat - Felines,Cat
+136,American Shorthair,5,9. American Shorthair - Cat,Cat
+137,Rabbit,4,19. Rabbit - Lagomorpha,Lagomorpha
+138,Chihuahua,7,22. Chihuahua - Dog,Dog
+139,Horse,4,20. Horse - Equidae,Equidae
+140,Goldfish,1,16. Goldfish - Aquatic Life,Aquatic Life
+141,Horse,3,20. Horse - Equidae,Equidae
+142,Kitten,3,21. Kitten - Cat,Cat
+143,Golden Retriever,9,7. Golden Retriever - Dog,Dog
+144,Rat,2,18. Rat - Rodent,Rodent
+145,Dog,5,23. Dog - Dog,Dog
+146,Chihuahua,2,22. Chihuahua - Dog,Dog
+147,Dog,3,23. Dog - Dog,Dog
+148,Parrot,5,10. Parrot - Bird,Bird
+149,Golden Retriever,7,7. Golden Retriever - Dog,Dog
+150,Chicken,2,12. Chicken - Fowl,Fowl
+151,Rabbit,7,19. Rabbit - Lagomorpha,Lagomorpha
+152,Golden Retriever,1,7. Golden Retriever - Dog,Dog
+153,Goldfish,6,16. Goldfish - Aquatic Life,Aquatic Life
+154,Hens,5,15. Hens - Fowl,Fowl
+155,Kitten,0,21. Kitten - Cat,Cat
+156,British Shorthair,0,4. British Shorthair - Cat,Cat
+157,Kitten,3,21. Kitten - Cat,Cat
+158,Horse,1,20. Horse - Equidae,Equidae
+159,Hens,9,15. Hens - Fowl,Fowl
+160,Rat,9,18. Rat - Rodent,Rodent
+161,Goldfish,6,16. Goldfish - Aquatic Life,Aquatic Life
+162,Goldfish,6,16. Goldfish - Aquatic Life,Aquatic Life
+163,Golden Retriever,7,7. Golden Retriever - Dog,Dog
+164,Goldfish,8,16. Goldfish - Aquatic Life,Aquatic Life
+165,Kitten,8,21. Kitten - Cat,Cat
+166,White Shepherd,7,17. White Shepherd - Dog,Dog
+167,British Shorthair,0,4. British Shorthair - Cat,Cat
+168,Duck,8,1. Duck - Waterfowl,Waterfowl
+169,Chicken,6,12. Chicken - Fowl,Fowl
+170,Dog,8,23. Dog - Dog,Dog
+171,American Shorthair,9,9. American Shorthair - Cat,Cat
+172,British Shorthair,8,4. British Shorthair - Cat,Cat
+173,Hens,3,15. Hens - Fowl,Fowl
+174,Horse,6,20. Horse - Equidae,Equidae
+175,Chihuahua,1,22. Chihuahua - Dog,Dog
+176,Hens,7,15. Hens - Fowl,Fowl
+177,Hens,4,15. Hens - Fowl,Fowl
+178,Horse,9,20. Horse - Equidae,Equidae
+179,Rat,2,18. Rat - Rodent,Rodent
+180,Samoyed,0,3. Samoyed - Dog,Dog
+181,Chicken,8,12. Chicken - Fowl,Fowl
+182,Rat,2,18. Rat - Rodent,Rodent
+183,Chihuahua,7,22. Chihuahua - Dog,Dog
+184,Samoyed,8,3. Samoyed - Dog,Dog
+185,Golden Retriever,4,7. Golden Retriever - Dog,Dog
+186,Cat,4,11. Cat - Felines,Cat
+187,Goldfish,1,16. Goldfish - Aquatic Life,Aquatic Life
+188,Dog,7,23. Dog - Dog,Dog
+189,American Shorthair,6,9. American Shorthair - Cat,Cat
+190,Parrot,9,10. Parrot - Bird,Bird
+191,Samoyed,4,3. Samoyed - Dog,Dog
+192,Hens,1,15. Hens - Fowl,Fowl
+193,Fish,5,5. Fish - Aquatic Life,Aquatic Life
+194,Snake,9,2. Snake - Reptile,Reptile
+195,Bunny,7,6. Bunny - Rabbit,Rabbit
+196,Guinea Pig,1,8. Guinea Pig - Rodent,Rodent
+197,Goldfish,3,16. Goldfish - Aquatic Life,Aquatic Life
+198,Chihuahua,5,22. Chihuahua - Dog,Dog
+199,Snake,7,2. Snake - Reptile,Reptile
+200,Horse,3,20. Horse - Equidae,Equidae
