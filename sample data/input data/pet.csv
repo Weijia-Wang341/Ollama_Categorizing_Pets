@@ -13,7 +13,7 @@ respond_id,pet,count
 012,American Shorthair,6
 013,Parrot,5
 014,Duck,7
-015,Cat,0
+015,na,0
 016,Parrot,8
 017,Fish,4
 018,Chicken,6
@@ -49,21 +49,21 @@ respond_id,pet,count
 048,Guinea Pig,5
 049,Kitten,8
 050,Dog,4
-051,Dog,0
+051,na,0
 052,American Shorthair,2
 053,Samoyed,5
 054,Bird,5
-055,Parrot,0
+055,na,0
 056,Goldfish,8
 057,White Shepherd,1
 058,Turtle,1
-059,Snake,0
+059,na,0
 060,American Shorthair,3
 061,Bunny,8
 062,Rabbit,8
 063,Cat,4
 064,Cat,4
-065,Fish,0
+065,na,0
 066,Bunny,9
 067,British Shorthair,3
 068,Parrot,7
@@ -94,13 +94,13 @@ respond_id,pet,count
 093,British Shorthair,9
 094,Snake,9
 095,Hens,2
-096,Samoyed,0
+096,na,0
 097,Samoyed,9
 098,Rat,1
 099,Turtle,9
-100,Bird,0
+100,na,0
 101,Bunny,6
-102,British Shorthair,0
+102,no,0
 103,Dog,4
 104,Bird,8
 105,Dog,4
@@ -109,7 +109,7 @@ respond_id,pet,count
 108,American Shorthair,8
 109,Kitten,8
 110,Rat,7
-111,British Shorthair,0
+111,na,0
 112,Kitten,3
 113,Rabbit,8
 114,Hens,7
@@ -118,10 +118,10 @@ respond_id,pet,count
 117,Samoyed,8
 118,Bunny,4
 119,Dog,7
-120,Rabbit,0
+120,na,0
 121,Guinea Pig,4
 122,Horse,9
-123,Kitten,0
+123,na,0
 124,Kitten,6
 125,British Shorthair,4
 126,British Shorthair,2
@@ -132,7 +132,7 @@ respond_id,pet,count
 131,Turtle,7
 132,Guinea Pig,8
 133,Chicken,5
-134,Bunny,0
+134,na,0
 135,Cat,8
 136,American Shorthair,5
 137,Rabbit,4
@@ -153,8 +153,8 @@ respond_id,pet,count
 152,Golden Retriever,1
 153,Goldfish,6
 154,Hens,5
-155,Kitten,0
-156,British Shorthair,0
+155,no,0
+156,na,0
 157,Kitten,3
 158,Horse,1
 159,Hens,9
@@ -165,7 +165,7 @@ respond_id,pet,count
 164,Goldfish,8
 165,Kitten,8
 166,White Shepherd,7
-167,British Shorthair,0
+167,no,0
 168,Duck,8
 169,Chicken,6
 170,Dog,8
@@ -178,7 +178,7 @@ respond_id,pet,count
 177,Hens,4
 178,Horse,9
 179,Rat,2
-180,Samoyed,0
+180,no,0
 181,Chicken,8
 182,Rat,2
 183,Chihuahua,7
